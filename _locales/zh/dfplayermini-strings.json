@@ -1,5 +1,5 @@
 {
-    "dfplayermini|block": "DFPlayer Mini音乐播放器",
+    "dfplayermini|block": "Mp3语音播报模块",
     "dfplayermini.playType.Play|block": "播放",
     "dfplayermini.playType.Stop|block": "停止",
     "dfplayermini.playType.PlayNext|block": "下一首",
@@ -13,11 +13,11 @@
     "dfplayermini.EQ.Base|block": "基本",
     "dfplayermini.setRepeat.No|block": "否",
     "dfplayermini.setRepeat.Yes|block": "是",
-    "dfplayermini.connect|block": "连接DFPlayer mini， RX引脚：%pinRX|TX引脚：%pinTX",
+    "dfplayermini.connect|block": "设置Mp3语音播报模块引脚，RX：%pinRX|TX：%pinTX",
     "dfplayermini.press|block": "按下：%myPlayType",
-    "dfplayermini.playFile|block": "指定播放歌曲，第%fileNumber|首，重复播放：%setRepeat",
-    "dfplayermini.playFileInFolder|block": "指定播放文件夹中歌曲，文件夹编号：%folderNumber|文件：%fileNumber|　重复播放：%setRepeat",
-    "dfplayermini.playLoopAllFiles|block": "循环播放SD卡里的所有歌曲",
+    "dfplayermini.playFile|block": "指定播放文件，第%fileNumber|首，重复播放：%setRepeat",
+    "dfplayermini.playFileInFolder|block": "指定播放文件夹中的文件，文件夹编号：%folderNumber|文件：%fileNumber|　重复播放：%setRepeat",
+    "dfplayermini.playLoopAllFiles|block": "循环播放SD卡里的所有文件",
     "dfplayermini.playLoopFolder|block": "循环播放文件夹中的歌曲，文件夹编号：%folderNum",
     "dfplayermini.setVolume|block": "设置音量大小(0~30)：%volume",
     "dfplayermini.setEQ|block": "设置EQ：%eq"
