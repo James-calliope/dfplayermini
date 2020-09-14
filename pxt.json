@@ -1,7 +1,7 @@
 {
-    "name": "dfplayermini",
+    "name": "Mp3语音播放模块",
     "version": "0.1.6",
-    "description": "Makecode pxt extension for DFPlayer Mini",
+    "description": "Mp3语音播放模块扩展库汉化版",
     "license": "MIT",
     "dependencies": {
         "core": "*"
